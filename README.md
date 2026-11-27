@@ -17,3 +17,5 @@ java-finance-tracker/
 │       └── FinanceApp.java   # 主程序与 CSV 持久化实现
 ├── .gitignore                # 忽略编译产物与系统缓存文件
 └── README.md                 # 项目说明文档
+## 项目报告
+- 完整项目报告见 [REPORT.md](./REPORT.md)
